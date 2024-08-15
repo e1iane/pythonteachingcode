@@ -10,6 +10,7 @@ import statistics as s
 
 #add constants next
 admins = {'Faculty1':'ABC123','Faculty2':'ABC123','Dominic':'Thomas'}
+admins = {'Eliane':'Tchassama','Faculty2':'ABC123','Dominic':'Thomas'}
 
 # Like the admins above is a dictionary but of students.
 # Dictionaries use curly brackets with colons to associate keys with values.
